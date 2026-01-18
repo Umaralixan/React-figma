@@ -1,0 +1,41 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.site-header {
+  padding: 20px 0;
+}
+.header-navbar {
+  display: flex;
+  align-items: center;
+  gap: 42px;
+}
+.nav-link {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 1.96px;
+  text-transform: uppercase;
+  color: #011f3a;
+}
+.header-right-part {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+.accaunt {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #011f3a;
+  background: none;
+  border: none;
+  text-transform: uppercase;
+}
+.btn-cart {
+  width: 24px;
+  height: 24px;
+  background: none;
+  border: none;
+}

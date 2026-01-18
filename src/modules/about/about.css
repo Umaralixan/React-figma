@@ -1,0 +1,17 @@
+.hero__brend {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+.right__left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.breand__text {
+    width: 70px;
+  color: #a1a1a1;
+  font-weight: 400;
+  font-size: 15px;
+}

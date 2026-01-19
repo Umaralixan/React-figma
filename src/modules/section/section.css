@@ -49,3 +49,48 @@
   font-size: 15px;
   border-radius: 44px;
 }
+.section__top {
+  margin-top: 100px;
+  background-color: #72bda3;
+  height: 750px;
+}
+.h3__title {
+  color: #011f3a;
+  font-weight: 400;
+  font-size: 32px;
+  padding-top: 88px;
+  text-align: center;
+}
+.top__dev {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.h5__title {
+  text-align: center;
+  color: #011f3a;
+  font-weight: 400;
+  font-size: 18px;
+}
+.card__text {
+  width: 200px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #3d5675;
+  margin-left: 50px;
+  margin-top: 10px;
+  text-align: center;
+}
+.btn__top {
+  width: 220px;
+  height: 44px;
+  border-radius: 44px;
+  border: none;
+  background-color: #011f3a;
+  color: white;
+  font-size: 15px;
+  display: block;
+  margin: 86px auto;
+}

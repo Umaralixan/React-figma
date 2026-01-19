@@ -1,0 +1,51 @@
+.aside {
+  background-color: #eeeeee;
+}
+.aside__title {
+  width: 324px;
+  color: #011f3a;
+  font-weight: 700;
+  font-size: 32px;
+  padding-top: 120px;
+  margin: 0 auto;
+}
+.aside__img {
+  width: 100%;
+  margin-top: 50px;
+}
+.aside__btn {
+  padding: 150px 0px 150px 0px;
+}
+.asideh3__title {
+  text-align: center;
+  color: #011f3a;
+  font-weight: 700;
+  font-size: 31px;
+}
+.aside__div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  margin-top: 55px;
+}
+.aside__divbtn {
+  width: 220px;
+  height: 44px;
+  background-color: #011f3a;
+  color: white;
+  border-radius: 44px;
+  border: none;
+  font-style: 15px;
+  font-weight: 700;
+}
+.aside__btnn {
+  width: 220px;
+  height: 44px;
+  background-color: white;
+  color: #3d5675;
+  border-radius: 44px;
+  border: none;
+  font-style: 15px;
+  font-weight: 700;
+}
